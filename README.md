@@ -1,17 +1,22 @@
+
 # Hi there, I'm Fahriza Ilhami Pasha! 👋
 
 <p align="left">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com">
-    <img src="https://img.shields.io" />
+    <img src="https://img.shields.io" alt="LinkedIn" />
   </a>
+  <!-- Instagram -->
   <a href="https://www.instagram.com/fahrizabranding?igsh=MTQ1ODB5azg1Zm5qaw==">
-    <img src="https://img.shields.io" />
+    <img src="https://img.shields.io" alt="Instagram" />
   </a>
+  <!-- Portfolio -->
   <a href="https://fahrizailhami-devlens-sy7c.vercel.app">
-    <img src="https://img.shields.io" />
+    <img src="https://img.shields.io" alt="Portfolio" />
   </a>
+  <!-- Email -->
   <a href="mailto:fahrizailhmip@gmail.com">
-    <img src="https://img.shields.io" />
+    <img src="https://img.shields.io" alt="Email" />
   </a>
 </p>
 
@@ -43,8 +48,8 @@
 ---
 
 ### ⚡ Fun Fact
-- ⚡ I love Codding, Traveling, and Go to sleep.
-- 📖 I enjoy reading about Javascript, Economies, and Artificial Intelligence.
+- ⚡ I love Coding, Traveling, and Go to sleep.
+- 📖 I enjoy reading about Javascript, Economics, and Artificial Intelligence.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app" />
